@@ -73,3 +73,4 @@ typora.io
 typingclub.com
 tablesgenerator.com
 reddit.com
+DOMAIN-SUFFIX,openai.com,🚀 ChatGPT
